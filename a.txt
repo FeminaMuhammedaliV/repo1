@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A8B9-810D
+
+ Directory of C:\Users\viben\Desktop\gy
+
+01/07/2020  05:28 PM    <DIR>          .
+01/07/2020  05:28 PM    <DIR>          ..
+01/07/2020  05:28 PM                 0 a.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  58,634,465,280 bytes free
